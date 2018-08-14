@@ -1,5 +1,4 @@
 # webpack_vueprj
-
 > webpack vue project
 
 # webpack을 사용하는 vue project
@@ -18,7 +17,14 @@
 : should we run `npm install` ... : npm 
 ```
 
+# server
+> generate development bundles and run dev. server
+```
+npm run dev
+```
 
+---
+---
 
 ## Build Setup
 
